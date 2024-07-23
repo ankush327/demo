@@ -1,4 +1,4 @@
 # demo 
 This is my first git repositry 
 <br>
-Author - Ankush Singh
+Author - Ankush Singh thakur
